@@ -17,6 +17,11 @@ A script for turning a PDF into a cutsheet
 ![alt text](https://github.com/yonicarver/cutsheetme/blob/master/readme_files/images/download_repository_arrow.PNG "download_repository_arrow.PNG")
 
 - Extract the contents of repository and place the folder "custsheetme" in a location of your choosing
+- Open a command prompt window, navigate to the "src" directory of this repository (e.g. ```cd Documents\cutsheetme\src```), and type: 
+```
+pip install -r requirements.txt
+```
+This will install all required Python libraries
 
 ---
 ### How to Install Python (Windows 7)
