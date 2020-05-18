@@ -41,10 +41,14 @@ pip install -r requirements.txt
 
 ![alt text](https://github.com/yonicarver/cutsheetme/blob/master/readme_files/images/python_installer_arrows.PNG "python_installer_arrows.PNG")
 
-- After the installation is complete, open a Command Prompt window and verify that Python 3.7.6 was installed correctly by typing: ```python```
+- After the installation is complete, open a Command Prompt window and verify that Python 3.7.5 was installed correctly by typing: ```python```. Alternatively, you can check which version of Python is installed by typing: ```python --version```
+
+<br />
 If your Python installation is correct, you should see something like:
 ```
 Python 3.7.5 (v3.6.4:d48eceb, Dec 19 2017, 06:04:45) [MSC v.1900 32 bit (Intel)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
+
+
