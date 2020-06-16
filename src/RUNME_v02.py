@@ -87,7 +87,8 @@ def cutsheet(filename):
   # MERGE pages
 
   #headerfile = open("./src/Cut Sheet Template v2017v01.pdf",'rb')               # open header PDF - in src folder
-  headerfile = open("./src/Cut_Sheet_Template_v2020v02.pdf",'rb')               # open header PDF - in src folder
+  #headerfile = open("./src/Cut_Sheet_Template_v2020v02.pdf",'rb')               # open header PDF - in src folder
+  headerfile = open("./src/cut_sheet_template_v2020v03.pdf", 'rb')
   header = PdfFileReader(headerfile)                                            # open header PDF
   header_page = header.getPage(0)                                               # get page 1 of header PDF (only has 1 page)
 
