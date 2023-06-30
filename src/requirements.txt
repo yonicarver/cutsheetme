@@ -1,5 +1,5 @@
 # use pip to install these Python requirements
 # run command: sudo pip3 install -r requirements.txt
 
-PyPDF2==1.26.0
+PyPDF2==1.27.9
 reportlab==3.5.42
